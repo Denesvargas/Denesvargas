@@ -1,7 +1,5 @@
 ### Hello! I'm Dênes Vargas 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Mobile aplications as fullstack enginner
 - 🌱 I’m currently learning react native
 
